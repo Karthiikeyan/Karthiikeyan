@@ -30,7 +30,7 @@ one. Every page is a document of an editable content type, so new sections need 
 with OAuth + PKCE and hashed database sessions, RLS lockdown, and 700+ tests.  
 `Next.js 16` `TypeScript` `PostgreSQL` `Drizzle` `Tiptap` `Vitest` `Playwright`
 
-**[LeetCode solutions](https://github.com/Karthiikeyan/leetcode-solutions)**  
+**[LeetCode solutions](https://github.com/Karthiikeyan/Leetcode-Hard-Problems)**  
 1,000+ problems solved, contest rating 1785 (top 8.7%). This repo holds 130+ of my accepted solutions,
 mostly in C++, indexed by pattern, with notes on the hard ones.  
 `C++` `Java` `Python` `DSA`
